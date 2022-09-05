@@ -39,7 +39,7 @@ nav{
 }
 
 nav ul li{
-	list-style: none;
+	list-style: inline;
 	display: inline-block;
 	margin-left: 60px;
 }
